@@ -1,0 +1,11 @@
+{
+  "squad": "Super hero squad",
+  "formed": 2016,
+  "base": "Super tower",
+  "member":
+    {
+      "name": "Molecule Man",
+      "age": 29,
+      "identity": "Dan Jukes"
+    }
+}
